@@ -25,7 +25,7 @@ plugins and modules, to support its special needs.
  - CSS custom rules loaded in the default moodle theme
  
  
- ## Installation instructions
+## Installation instructions
  
 Installation of the epinoo_header block is done by copying the  epinoo_header directory 
 in Moodle_installation_dir /blocks directory. No further configuration needed.
